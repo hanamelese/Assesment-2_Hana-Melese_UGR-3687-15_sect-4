@@ -1,7 +1,7 @@
 
 
 body p{
-    font-size: 13px;
+   
     line-height: 1.6;
 }
 body p a{
@@ -65,6 +65,10 @@ aside{
     0 0 35px rgba(145, 52, 2, 0.1);
     border-radius: 7px;
 }
+aside p{
+    font-size: 13px;
+
+}
 aside li {
   text-decoration: none;
   list-style-type:none;
@@ -85,7 +89,7 @@ footer{
 
 h2{
     color:rgb(212, 71, 28);
-    font-size: 16px;
+    
 }
  
 .footer-flex2{

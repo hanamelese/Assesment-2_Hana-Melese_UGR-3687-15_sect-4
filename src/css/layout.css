@@ -29,7 +29,7 @@ header h3{
 .aside{
     padding: 20px; 
     margin-right: 10%; 
-    width: 200px;
+    width: 20%;
     float:right;
     flex-wrap: wrap;
     margin-top: 7px;
@@ -48,6 +48,7 @@ aside p{
 }
 main{
    margin-left: 10%;
+   width: 55%;
 }
 main h2{
    padding-top: 5px;
