@@ -65,10 +65,6 @@ aside{
     0 0 35px rgba(145, 52, 2, 0.1);
     border-radius: 7px;
 }
-aside p{
-    font-size: 13px;
-
-}
 aside li {
   text-decoration: none;
   list-style-type:none;
@@ -77,7 +73,7 @@ aside li a {
     text-decoration: none;
     list-style-type:none;
     color: black;
-    font-size: 12px;
+   
   }
 .lorem{
     font-weight: 600;
