@@ -1,10 +1,8 @@
-body {
-    font-family:sans-serif
-}
+
 
 body p{
-    font-size: 11px;
-    line-height: 1.5;
+    font-size: 13px;
+    line-height: 1.6;
 }
 body p a{
     color: rgb(212, 71, 28);
@@ -13,6 +11,7 @@ body .readmore{
     color: #058f13;
 }
 header{
+    font-family: sans-serif;
     background-color: rgb(0, 8, 3);
     color: rgb(237, 232, 232);
     box-shadow: 0 0 20px rgba(244, 133, 77, 0.5), 
